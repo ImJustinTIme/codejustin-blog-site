@@ -1,0 +1,18 @@
+baseURL = 'https://blog.codejustin.dev'
+languageCode = 'en-us'
+title = 'CodeClicks && CulinaryBits'
+theme = 'ficurinia'
+defaultContentLanguage = 'eni'
+
+[params]
+
+author = 'Justin Kuennen'
+description = 'A Blog spot to share information and updates about the many hobbies (Coding, Photography, Cooking, Old Tech, etc) that interest me (Justin Kuennen).'
+posts = 'posts'
+showPostsLink = true
+[menu]
+[[menu.icons]]
+identifier = 'github'
+name = 'Github'
+url = 'https://github.com/ImJustinTIme'
+weight = 20
