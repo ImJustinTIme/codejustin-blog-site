@@ -2,7 +2,8 @@ baseURL = 'https://blog.codejustin.dev'
 languageCode = 'en-us'
 title = 'CodeClicks && CulinaryBits'
 theme = 'ficurinia'
-defaultContentLanguage = 'eni'
+defaultContentLanguage = 'en'
+
 
 [params]
 
@@ -10,6 +11,13 @@ author = 'Justin Kuennen'
 description = 'A Blog spot to share information and updates about the many hobbies (Coding, Photography, Cooking, Old Tech, etc) that interest me (Justin Kuennen).'
 posts = 'posts'
 showPostsLink = true
+logo = '/Crunchy-Bundled.svg'
+favicon = "/Crunchy-(Small).png"
+
+contentWidth = "1200px"
+
+monospaceFontFamily = "Space Mono"
+fontFamily = "Space Mono"          # changes the font, default "JetBrains Mono"
 [menu]
 [[menu.icons]]
 identifier = 'github'
