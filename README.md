@@ -1,3 +1,11 @@
-      # codejustin-blog-site
+# codejustin-blog-site
 
-General blog/updates for what I am working on at the moment written using hugo
+
+
+### Starting up
+---
+to start the app locally ('-D' includes drafts)
+`hugo serve -D`
+
+to serve up: `hugo` and push
+
