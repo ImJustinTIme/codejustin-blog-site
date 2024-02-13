@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>CodeClicks &amp;&amp; CulinaryBits</title>
-    <link>https://blog.codejustin.dev/</link>
+    <link>/</link>
     <description>Recent content on CodeClicks &amp;&amp; CulinaryBits</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://blog.codejustin.dev/index.xml" rel="self" type="application/rss+xml" /><icon>https://blog.codejustin.dev/Crunchy-Bundled.svg</icon>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><icon>/Crunchy-Bundled.svg</icon>
     
     
     
